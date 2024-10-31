@@ -1,8 +1,9 @@
 {
   "name": "bocade",
   "displayName": "BOCADE",
+  "publisher": "gusalbukrk",
   "icon": "media/icon.png",
-  "description": "Improved UX for participants in programming contests administered by BOCA.",
+  "description": "Development environment for programming contests administered by BOCA.",
   "version": "0.0.1",
   "repository": {
     "type": "git",

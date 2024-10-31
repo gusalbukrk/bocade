@@ -1,6 +1,6 @@
 # BOCADE - BOCA Development Environment
 
-VS Code extension for improved UX for participants in programming contests administered by BOCA.
+Development environment for programming contests administered by BOCA.
 
 <img src="./media/main.png" width="800px" />
 </br>
